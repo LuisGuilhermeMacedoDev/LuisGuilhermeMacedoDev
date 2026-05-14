@@ -1,45 +1,19 @@
-# Olá! Sou o Luís Guilherme Macedo 👋🏻
+# Olá, eu sou o Luís Guilherme! 👋
 
-<h3 align="center">Desenvolvedor de Software | Estudante de ADS</h3>
+Atualmente sou graduando em Análise e Desenvolvimento de Sistemas no UniCeub (previsão para 2028) e atuo no setor de TI do BigBox. Possuo uma base técnica sólida formada pelo Instituto Federal de Brasília (IFB) e tenho forte interesse em desenvolvimento web, backend e infraestrutura Cloud.
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/luis-guilherme-9b361a270/" target="_blank">
-        <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:luisguilhermevrmacedo@gmail.com">
-        <img alt="Email" title="Me envie um e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a> 
-</p>
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** Java, Python, JavaScript
+* **Web:** HTML5, CSS3
+* **Cloud & Infraestrutura:** AWS (EC2, RDS, VPC)
+* **Certificações:** AWS Academy Cloud Foundations
 
----
+## 📂 Estrutura do Repositório e Projetos
 
-### 👨🏻‍💻 Sobre Mim
+### 💻 Projetos Pessoais
+* **[Site Comercial - Bar do Carlinhos](./projetos-pessoais/site-bar-do-carlinhos/):** Desenvolvimento de um website completo (frontend) para estabelecimento comercial.
+* **[Arquitetura Cloud Multi-tier](./projetos-pessoais/infraestrutura-aws/):** Implementação de infraestrutura escalável na AWS utilizando Auto Scaling, VPC e bancos de dados relacionais.
 
-Tenho 18 anos, sou de Planaltina (DF) e sou completamente apaixonado por tecnologia. Concluí o curso **Técnico em Informática no IFB** e atualmente estou aprofundando meus conhecimentos cursando **Análise e Desenvolvimento de Sistemas no UniCeub**. 
-
-* Possuo grande interesse em **infraestrutura e Cloud Computing**, sendo certificado pela AWS Academy Cloud Foundations.
-* Tenho experiência prática e acadêmica na criação de aplicações web escaláveis (multi-tier) e de alta disponibilidade.
-* Atualmente atuo no departamento de TI do **BigBox**, unindo meus conhecimentos acadêmicos à vivência diária de infraestrutura e suporte corporativo.
-* Movido a desafios, tecnologia e um bom cappuccino.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-    <img alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="AWS" title="Amazon Web Services" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</p>
-
----
-
-### 📂 Mapa do Repositório
-
-Para facilitar a navegação, este repositório está estruturado da seguinte forma:
-
-* [**`/projetos-pessoais`**](./projetos-pessoais): Destaque para projetos práticos e arquitetura, incluindo o sistema web comercial e a implementação de infraestrutura multicamadas na AWS.
-* [**`/projetos-academicos`**](./projetos-academicos): Códigos, laboratórios e trabalhos desenvolvidos durante a graduação em ADS no UniCeub e na formação técnica do IFB.
+### 📚 Projetos Acadêmicos
+* **[UniCeub - ADS](./projetos-academicos/uniceub-ads/):** Repositório de atividades e laboratórios práticos do curso.
+* **[IFB - Técnico](./projetos-academicos/ifb-tecnico/):** Projetos e exercícios do curso técnico em Informática.
