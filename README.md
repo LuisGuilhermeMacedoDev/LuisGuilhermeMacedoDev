@@ -17,11 +17,10 @@
 
 Tenho 18 anos, sou de Planaltina (DF) e sou completamente apaixonado por tecnologia. Concluí o curso **Técnico em Informática no IFB** e atualmente estou aprofundando meus conhecimentos cursando **Análise e Desenvolvimento de Sistemas no UniCeub**. 
 
-* Possuo grande interesse em **infraestrutura e Cloud Computing** (AWS).
-* Tenho experiência prática e acadêmica na criação de aplicações web escaláveis e de alta disponibilidade.
-* Gosto muito de trabalhar em equipe e colaborar ativamente para entregar soluções eficientes.
+* Possuo grande interesse em **infraestrutura e Cloud Computing**, sendo certificado pela AWS Academy Cloud Foundations.
+* Tenho experiência prática e acadêmica na criação de aplicações web escaláveis (multi-tier) e de alta disponibilidade.
+* Atualmente atuo no departamento de TI do **BigBox**, unindo meus conhecimentos acadêmicos à vivência diária de infraestrutura e suporte corporativo.
 * Movido a desafios, tecnologia e um bom cappuccino.
-* Em busca da minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos!
 
 ---
 
@@ -32,4 +31,15 @@ Tenho 18 anos, sou de Planaltina (DF) e sou completamente apaixonado por tecnolo
     <img alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img alt="AWS" title="Amazon Web Services" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
+
+---
+
+### 📂 Mapa do Repositório
+
+Para facilitar a navegação, este repositório está estruturado da seguinte forma:
+
+* [**`/projetos-pessoais`**](./projetos-pessoais): Destaque para projetos práticos e arquitetura, incluindo o sistema web comercial e a implementação de infraestrutura multicamadas na AWS.
+* [**`/projetos-academicos`**](./projetos-academicos): Códigos, laboratórios e trabalhos desenvolvidos durante a graduação em ADS no UniCeub e na formação técnica do IFB.
