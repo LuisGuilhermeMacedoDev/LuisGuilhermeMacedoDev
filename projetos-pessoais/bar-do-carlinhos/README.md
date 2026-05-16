@@ -1,12 +1,21 @@
 # 🍻 Sistema Web - Bar do Carlinhos
 
-*Nota: Este projeto possui um repositório dedicado.*
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
-O **Bar do Carlinhos** é um sistema web focado na criação de uma interface digital para um estabelecimento comercial. O objetivo foi aplicar conceitos práticos de front-end para resolver uma necessidade real de negócios.
+*Nota: Este projeto possui um repositório dedicado para o código-fonte.*
+
+O **Bar do Carlinhos** é uma aplicação web focada na criação de uma interface digital moderna para um estabelecimento comercial. O projeto foi desenvolvido para aplicar conceitos de Front-end na resolução de problemas reais de negócio, criando uma ponte entre o cliente e os serviços do bar.
 
 ### 🛠️ Tecnologias Utilizadas
-* **HTML5:** Estruturação semântica das páginas.
-* **CSS3:** Estilização, layout responsivo e identidade visual.
-* **JavaScript:** Interatividade e dinamismo na interface.
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-🔗 **[Clique aqui para acessar o repositório oficial e ver o código completo do Bar do Carlinhos](https://github.com/LuisGuilhermeMacedoDev/Bar-Carlinhos)**
+### 📌 Destaques do Desenvolvimento
+- Interface intuitiva e focada na experiência do usuário (UX).
+- Estruturação semântica para melhor acessibilidade web.
+- Estilização customizada com CSS3.
+
+🔗 **[Acesse o Repositório Oficial e o Código Completo Aqui](https://github.com/LuisGuilhermeMacedoDev/Bar-Carlinhos)**
