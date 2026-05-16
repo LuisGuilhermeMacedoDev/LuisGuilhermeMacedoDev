@@ -11,9 +11,9 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas no UniCeub (p
 ## 📂 Estrutura do Repositório e Projetos
 
 ### 💻 Projetos Pessoais
-* **[Site Comercial - Bar do Carlinhos](./projetos-pessoais/site-bar-do-carlinhos/):** Desenvolvimento de um website completo (frontend) para estabelecimento comercial.
-* **[Arquitetura Cloud Multi-tier](./projetos-pessoais/infraestrutura-aws/):** Implementação de infraestrutura escalável na AWS utilizando Auto Scaling, VPC e bancos de dados relacionais.
+* **[Site Comercial - Bar do Carlinhos](./projetos-pessoais/bar-do-carlinhos/):** Desenvolvimento de um website completo (frontend) para estabelecimento comercial.
+* **[Arquitetura Cloud Multi-tier](./projetos-pessoais/aws-multi-tier/):** Implementação de infraestrutura escalável na AWS utilizando Auto Scaling, VPC e bancos de dados relacionais.
 
 ### 📚 Projetos Acadêmicos
-* **[UniCeub - ADS](./projetos-academicos/uniceub-ads/):** Repositório de atividades e laboratórios práticos do curso.
-* **[IFB - Técnico](./projetos-academicos/ifb-tecnico/):** Projetos e exercícios do curso técnico em Informática.
+* **[UniCeub - ADS](./projetos-academicos/ads-uniceub/):** Repositório de atividades e laboratórios práticos do curso.
+* **[IFB - Técnico](./projetos-academicos/tecnico-ifb/):** Projetos e exercícios do curso técnico em Informática.
