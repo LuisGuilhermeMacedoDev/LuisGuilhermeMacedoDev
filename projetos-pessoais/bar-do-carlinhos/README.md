@@ -1,6 +1,5 @@
 # 🍻 Sistema Web - Bar do Carlinhos
 
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 *Nota: Este projeto possui um repositório dedicado para o código-fonte.*
 
