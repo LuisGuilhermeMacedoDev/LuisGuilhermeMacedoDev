@@ -1,8 +1,6 @@
 # 🍻 Sistema Web - Bar do Carlinhos
 
 
-*Nota: Este projeto possui um repositório dedicado para o código-fonte.*
-
 O **Bar do Carlinhos** é uma aplicação web focada na criação de uma interface digital moderna para um estabelecimento comercial. O projeto foi desenvolvido para aplicar conceitos de Front-end na resolução de problemas reais de negócio, criando uma ponte entre o cliente e os serviços do bar.
 
 ### 🛠️ Tecnologias Utilizadas
